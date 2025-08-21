@@ -63,4 +63,3 @@ Las librerías necesarias para ejecutar este proyecto son:
     1.  La señal continua original.
     2.  La señal después del muestreo.
     3.  El espectro de magnitud en frecuencia de la señal.
-"# final-1" 
